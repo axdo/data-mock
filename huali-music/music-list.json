@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0",
+    "title": "白月光与朱砂痣",
+    "author": "大籽",
+    "albumn": "白月光与朱砂痣",
+    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_白月光与朱砂痣.json",
+    "url": "https://axdo.github.io/data-mock/huali-music/白月光与朱砂痣.mp3"
+  },
+  {
+    "id": "1",
+    "title": "真的吗",
+    "author": "莫文蔚",
+    "albumn": "我要说I Say",
+    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_真的吗.json",
+    "url": "https://axdo.github.io/data-mock/huali-music/莫文蔚-真的吗.mp3"
+  },
+  {
+    "id": "2",
+    "title": "水星记",
+    "author": "郭顶",
+    "albumn": "飞行器的执行周期",
+    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_水星记.json",
+    "url": "https://axdo.github.io/data-mock/huali-music/水星记.mp3"
+  },
+  {
+    "id": "3",
+    "title": "后来的我们",
+    "author": "五月天",
+    "albumn": "后来的我们",
+    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_后来的我们.json",
+    "url": "https://axdo.github.io/data-mock/huali-music/后来的我们.mp3"
+  },
+  {
+    "id": "4",
+    "title": "假装",
+    "author": "陈雪凝",
+    "albumn": "拾陆",
+    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_假装.json",
+    "url": "https://axdo.github.io/data-mock/huali-music/假装.mp3"
+  },
+  {
+    "id": "5",
+    "title": "烦恼歌",
+    "author": "张学友",
+    "albumn": "在你身边",
+    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_烦恼歌.json",
+    "url": "https://axdo.github.io/data-mock/huali-music/烦恼歌.mp3"
+  }
+]
