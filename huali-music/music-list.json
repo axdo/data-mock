@@ -1,19 +1,19 @@
 [
   {
     "id": "0",
-    "title": "真的吗",
-    "author": "莫文蔚",
-    "albumn": "我要说I Say",
-    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_真的吗.json",
-    "url": "https://axdo.github.io/data-mock/huali-music/莫文蔚-真的吗.mp3"
-  },
-  {
-    "id": "1",
     "title": "水星记",
     "author": "郭顶",
     "albumn": "飞行器的执行周期",
     "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_水星记.json",
     "url": "https://axdo.github.io/data-mock/huali-music/水星记.mp3"
+  },
+  {
+    "id": "1",
+    "title": "真的吗",
+    "author": "莫文蔚",
+    "albumn": "我要说I Say",
+    "lyric": "https://axdo.github.io/data-mock/huali-music/lyric_真的吗.json",
+    "url": "https://axdo.github.io/data-mock/huali-music/莫文蔚-真的吗.mp3"
   },
   {
     "id": "2",
